@@ -1,0 +1,46 @@
+{
+    "experiences": [
+        {
+            "company": "Thano Technologies",
+            "role": "Product Specialist",
+            "period": "Apr 2025 – Sekarang",
+            "contributions": [
+                "Merancang dan mengimplementasikan solusi integrasi sistem berskala besar untuk sektor transportasi, bandara, pertambangan, dan data center",
+                "Memimpin sebagai Project Manager/Supervisor, memastikan proyek selesai tepat waktu dan sesuai spesifikasi teknis",
+                "Berkolaborasi lintas divisi (teknis & penjualan) untuk mendesain solusi inovatif yang meningkatkan efisiensi operasional klien"
+            ]
+        },
+        {
+            "company": "Fazza Royal Yantasir Simulasi",
+            "role": "Electrical Engineer",
+            "period": "Sep 2020 – Mar 2025",
+            "contributions": [
+                "Memimpin R&D sistem simulator berbasis mikrokontroler dan IoT dari tahap purwarupa hingga produk akhir",
+                "Mendesain skematik dan layout PCB berstandar industri, meminimalkan tingkat kegagalan perangkat keras",
+                "Menangani troubleshooting kompleks, menyusun dokumentasi teknis, dan mengoptimalkan efisiensi rantai pasok dengan vendor manufaktur",
+                "Mengembangkan sistem otomatisasi yang meningkatkan keandalan kontrol untuk aplikasi industri dan pelatihan"
+            ]
+        },
+        {
+            "company": "SMKN 35 Jakarta",
+            "role": "Guru",
+            "period": "Sep 2019 – Aug 2020",
+            "contributions": [
+                "Mengajar mata pelajaran Microcontroller, Microprocessor, dan Engineering Drawing dengan metode praktik langsung",
+                "Mendesain kurikulum berbasis proyek (Project-Based Learning) yang menghasilkan berbagai purwarupa sistem elektronik fungsional",
+                "Membimbing siswa dalam kompetisi dan riset robotika, meningkatkan daya saing serta kreativitas teknis mereka"
+            ]
+        },
+        {
+            "company": "Animo Resto Primera",
+            "role": "Project Engineer",
+            "period": "Sep 2019 – Nov 2019",
+            "contributions": [
+                "Merancang dan mengembangkan perangkat berbasis IoT untuk monitoring dan kontrol suhu pada oven, kompor, serta pendingin makanan.",
+                "Mengikuti perkembangan teknologi dan platform IoT terbaru, serta melakukan analisis kesesuaian teknologi untuk kebutuhan pengembangan produk.",
+                "Melakukan troubleshooting dan penyelesaian berbagai kendala teknis kompleks pada sistem Industrial IoT.",
+                "Menyusun laporan teknis dan menyampaikan hasil riset maupun pengembangan proyek melalui dokumentasi dan presentasi secara efektif."
+            ]
+        }
+    ]
+}

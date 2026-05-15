@@ -1,0 +1,52 @@
+{
+    "categories": [
+        {
+            "title": "Embedded Systems & Programming",
+            "icon": "fa-solid fa-microchip",
+            "skills": [
+                "Arduino",
+                "ESP32",
+                "Raspberry Pi",
+                "C",
+                "C#",
+                "Python",
+                "UART",
+                "RS232/RS485",
+                "Modbus",
+                "TCP/IP"
+            ]
+        },
+        {
+            "title": "Electronics & Design",
+            "icon": "fa-solid fa-microchip",
+            "skills": [
+                "PCB Design & Schematic",
+                "Eagle PCB",
+                "EasyEDA",
+                "Proteus",
+                "Circuit Analysis & Troubleshooting",
+                "Fusion 360"
+            ]
+        },
+        {
+            "title": "Software Tools",
+            "icon": "fa-solid fa-laptop-code",
+            "skills": [
+                "Visual Studio",
+                "VS Code",
+                "Microsoft Office",
+                "GitHub"
+            ]
+        },
+        {
+            "title": "Additional Skills",
+            "icon": "fa-solid fa-users-gear",
+            "skills": [
+                "Project Management",
+                "Team Collaboration",
+                "Technical Documentation",
+                "Reporting"
+            ]
+        }
+    ]
+}

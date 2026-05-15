@@ -1,0 +1,199 @@
+{
+    "projects": [
+        {
+            "name": "Simulator Cessna C172",
+            "description": "Project ini merupakan pengembangan simulator penerbangan Cessna C172 yang dirancang untuk merepresentasikan sistem kokpit pesawat secara realistis. Simulator dilengkapi dengan tampilan instrumen penerbangan utama, sistem navigasi, serta visual penerbangan yang ditampilkan melalui beberapa layar untuk meningkatkan akurasi dan imersi. Selain itu, simulator ini terintegrasi dengan control yoke dan panel kontrol yang berfungsi untuk mensimulasikan pengoperasian pesawat secara langsung. Project ini bertujuan sebagai media simulasi dan pembelajaran dasar penerbangan, serta untuk pengujian prosedur dan pemahaman sistem pesawat Cessna C172.",
+            "tech": [
+                "Arduino",
+                "PCB Design"
+            ],
+            "role": "R&D",
+            "screenshot": "assets/images/Cessna Flight Sim.jpg",
+            "github": ""
+        },
+        {
+            "name": "Desktop Simulator",
+            "description": "Project ini merupakan pengembangan Universal Desktop Simulator yang dirancang untuk merepresentasikan berbagai sistem simulasi secara realistis dalam satu platform terintegrasi. Simulator dilengkapi dengan tampilan antarmuka interaktif, panel kontrol, sistem monitoring, serta dukungan multi-display untuk meningkatkan akurasi visual dan pengalaman pengguna. Selain itu, sistem dapat terintegrasi dengan berbagai perangkat input dan kontrol eksternal guna mensimulasikan proses operasional secara langsung sesuai kebutuhan aplikasi. Project ini bertujuan sebagai media simulasi, pembelajaran, pengujian sistem, serta pengembangan dan validasi prosedur operasional pada berbagai bidang industri dan teknologi.",
+            "tech": [
+                "Arduino",
+                "PCB Design"
+            ],
+            "role": "R&D",
+            "screenshot": "assets/images/Desktop Training.jpeg",
+            "github": ""
+        },
+        {
+            "name": "F-16 Simulator",
+            "description": "Project ini merupakan pengembangan simulator kokpit pesawat tempur F-16 yang dirancang untuk menghadirkan pengalaman simulasi penerbangan secara realistis dan interaktif. Simulator dilengkapi dengan panel instrumen, multifunction display (MFD), indikator penerbangan, serta sistem kontrol yang menyerupai konfigurasi kokpit asli pesawat F-16. Seluruh sistem dirancang untuk mendukung visualisasi data penerbangan, navigasi, hingga simulasi prosedur operasional dan kontrol pesawat. Project ini bertujuan sebagai media simulasi, pembelajaran, pengembangan sistem avionik, serta peningkatan pengalaman pengguna dalam memahami operasional pesawat tempur modern.",
+            "tech": [
+                "Arduino",
+                "PCB Design",
+                "C++",
+                "Embedded System",
+                "System Integration"
+            ],
+            "role": "R&D",
+            "screenshot": "assets/images/Full Cockpit Simulator 1.jpeg, assets/images/Full Cockpit Simulator 2.jpeg",
+            "github": ""
+        },
+        {
+            "name": "Robot Quadruped",
+            "description": "Project ini merupakan pengembangan robot quadruped (berkaki empat) yang dirancang untuk mempelajari konsep dasar robotika, mekanika gerak, dan sistem kendali. Robot ini menggunakan rangka berbahan akrilik dengan empat kaki yang masing-masing digerakkan oleh servo motor, memungkinkan robot melakukan gerakan berjalan dan manuver dasar secara stabil.",
+            "tech": [
+                "C++",
+                "Arduino"
+            ],
+            "role": "R&D",
+            "screenshot": "assets/images/Quadruped.JPG",
+            "github": ""
+        },
+        {
+            "name": "KRI Abu Robocon 2015",
+            "description": "Project ini merupakan pengembangan robot kompetisi untuk ajang KRI ABU Robocon 2015, yang dirancang dan dibangun sebagai bagian dari tim untuk mengikuti kontes robot tingkat nasional. Robot ini dikembangkan dengan fokus pada ketepatan mekanik, keandalan sistem kendali, serta kemampuan menjalankan misi sesuai dengan aturan dan tantangan kompetisi. Proses pengerjaan meliputi perancangan mekanik, perakitan sistem aktuator dan transmisi, integrasi sistem kelistrikan, serta pengujian dan penyempurnaan performa robot. Project ini bertujuan untuk mengasah kemampuan di bidang robotika, kerja tim, pemecahan masalah teknis, serta penerapan teori ke dalam implementasi nyata pada lingkungan kompetisi.",
+            "tech": [
+                "System Integration",
+                "Arduino",
+                "C++"
+            ],
+            "role": "R&D",
+            "screenshot": "assets/images/KRI Abu Robocon.jpg",
+            "github": ""
+        },
+        {
+            "name": "Hydroponic Device",
+            "description": "Project ini merupakan pengembangan perangkat kontrol sistem hidroponik yang dirancang untuk memantau dan mengendalikan parameter kualitas air secara real-time. Perangkat ini mampu menampilkan informasi seperti waktu operasional, nilai pH, dan TDS (Total Dissolved Solids) melalui layar LCD sebagai indikator kondisi nutrisi tanaman. Sistem ini terintegrasi dengan sensor pH dan TDS untuk memastikan kestabilan larutan nutrisi, serta mendukung pengambilan keputusan dalam perawatan tanaman hidroponik. Dengan adanya perangkat ini, proses monitoring menjadi lebih efisien, akurat, dan terpusat, sehingga membantu meningkatkan kualitas pertumbuhan tanaman dan efektivitas pengelolaan sistem hidroponik.",
+            "tech": [
+                "IoT",
+                "Arduino",
+                "C++"
+            ],
+            "role": "R&D",
+            "screenshot": "assets/images/Hydroponic.jpg",
+            "github": ""
+        },
+        {
+            "name": "Visitor Management System",
+            "description": "Project ini merupakan pengembangan Visitor Management System (VMS) yang dirancang untuk mengelola proses kunjungan tamu secara terstruktur, aman, dan terdigitalisasi. Sistem ini memungkinkan pencatatan data pengunjung, tujuan kunjungan, waktu masuk dan keluar, serta identitas tamu secara terpusat. Visitor Management System ini juga dilengkapi dengan fitur autentikasi dan pengelolaan pengguna berbasis hak akses, sehingga hanya pihak berwenang yang dapat mengelola data dan konfigurasi sistem. Dengan penerapan sistem ini, proses penerimaan tamu menjadi lebih efisien, akurat, serta meningkatkan aspek keamanan dan pelacakan riwayat kunjungan.",
+            "tech": [
+                "System Integration",
+                "C#",
+                "TCP/IP"
+            ],
+            "role": "Software Integration",
+            "screenshot": "assets/images/VMS.png",
+            "github": ""
+        },
+        {
+            "name": "Project Management App",
+            "description": "Project ini merupakan pengembangan aplikasi Project Management yang dirancang untuk membantu pengelolaan dan pemantauan progres berbagai project secara terstruktur dan terdokumentasi. Aplikasi ini memungkinkan pengguna untuk membuat project, membagi tugas, mencatat progres pekerjaan, serta menyimpan file sebagai dokumentasi dan histori aktivitas. Sistem dilengkapi dengan fitur autentikasi login untuk menjaga keamanan data, serta manajemen hak akses berbasis peran (role-based access control), di mana admin memiliki otoritas untuk menambahkan dan mengelola akun pengguna. Dengan implementasi ini, aplikasi mampu meningkatkan efisiensi monitoring project, transparansi progres pekerjaan, serta pengarsipan dokumentasi secara terpusat.",
+            "tech": [
+                "HTML",
+                "Sql",
+                "Java"
+            ],
+            "role": "Web Development",
+            "screenshot": "assets/images/Project.jpg",
+            "github": ""
+        },
+        {
+            "name": "Visitor Management System (VMS) CoreDev v3.4",
+            "description": "Visitor Management System (VMS) CoreDev v3.4 adalah aplikasi berbasis web on-premise (Next.js, Node.js, SQLite) berskala enterprise yang mendigitalisasi seluruh proses registrasi tamu dan kontrol akses fasilitas. Aplikasi ini menonjolkan fitur automasi keamanan melalui integrasi langsung secara API dengan panel pintu cerdas (Matrix COSEC) dan pengenalan wajah (SenseTime SenseLink), serta terhubung dengan perangkat hardware pemindai paspor (HID, Thales) via service C# (.NET) untuk pembacaan data paspor instan (MRZ Parsing). Dilengkapi dengan perlindungan lisensi terenkripsi AES, fitur pra-registrasi email, dan mode self-service kiosk berbasis pemindaian QR Code ultra-cepat, VMS ini menawarkan solusi operasional lobi yang mutakhir, aman, dan tanpa hambatan.",
+            "tech": [
+                "HTML",
+                "Sql",
+                "Java",
+                "Senselink",
+                "Cosec Matrix",
+                "Node JS"
+            ],
+            "role": "Web Development",
+            "screenshot": "assets/images/VMS01.PNG",
+            "github": ""
+        },
+        {
+            "name": "Database Product",
+            "description": "Web Product Database ini merupakan platform berbasis web yang dirancang untuk mengelola, menampilkan, dan membandingkan berbagai data produk secara terstruktur dalam satu dashboard modern. Sistem ini memiliki fitur kategorisasi produk, pencarian spesifikasi, manajemen data, favorit, serta modul perbandingan untuk mempermudah pengguna dalam melakukan analisis produk secara cepat dan efisien. Antarmuka dibuat dengan desain modern bertema dark mode yang responsif dan user-friendly, sehingga cocok digunakan untuk kebutuhan dokumentasi teknis, product management, hingga monitoring katalog perangkat seperti access control, CCTV, inspection system, dan visitor management.",
+            "tech": [
+                "HTML",
+                "Sql",
+                "Java",
+                "Node JS"
+            ],
+            "role": "Web Development",
+            "screenshot": "assets/images/Product Data.PNG",
+            "github": ""
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Introduction to Cybersecurity",
+            "vendor": "Cisco",
+            "year": "Feb 2025"
+        },
+        {
+            "name": "Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)",
+            "vendor": "Dicoding Indonesia",
+            "year": "Okt 2024"
+        },
+        {
+            "name": "Belajar Dasar Pemrograman JavaScript",
+            "vendor": "Dicoding Indonesia",
+            "year": "Okt 2024"
+        },
+        {
+            "name": "Belajar Dasar Pemrograman Web",
+            "vendor": "Dicoding Indonesia",
+            "year": "Okt 2024"
+        },
+        {
+            "name": "Belajar Membuat Front-End Web untuk Pemula",
+            "vendor": "Dicoding Indonesia",
+            "year": "Okt 2024"
+        },
+        {
+            "name": "Belajar Dasar AI",
+            "vendor": "Dicoding Indonesia",
+            "year": "Okt 2024"
+        },
+        {
+            "name": "DevCoach 170: Data Science | Data + Visuals = Dashboards with Impact!",
+            "vendor": "Dicoding Indonesia",
+            "year": "Sep 2024"
+        },
+        {
+            "name": "Fundamentals of QA/QC (Manufacturing Industry)",
+            "vendor": "Engineering Academy",
+            "year": "Aug 2024"
+        },
+        {
+            "name": "SCADA Using Siemens WinCC Explorer",
+            "vendor": "Engineering Academy",
+            "year": "Des 2023"
+        },
+        {
+            "name": "Frontend Developer Course",
+            "vendor": "Progate",
+            "year": "Nov 2022"
+        },
+        {
+            "name": "Pelajaran Pengembangan Web(Node.js)",
+            "vendor": "Progate",
+            "year": "Nov 2022"
+        },
+        {
+            "name": "Kursus JavaScript",
+            "vendor": "Progate",
+            "year": "Nov 2022"
+        },
+        {
+            "name": "Data Science with Python",
+            "vendor": "Engineering Academy",
+            "year": "Jun 2022"
+        },
+        {
+            "name": "Basic Programming PLC & HMI Mitsubishi (GX Work2, Gx Dev & GT Designer)",
+            "vendor": "Engineering Academy",
+            "year": "Jun 2022"
+        }
+    ]
+}

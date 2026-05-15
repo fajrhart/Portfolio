@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fajar Hartato — Electronic Engineer Portfolio</title>
+  <meta name="description"
+    content="Portfolio profesional Fajar Hartato — Electronic Engineer dengan pengalaman 5+ tahun di bidang embedded system, kontrol industri, dan IoT.">
+  <meta name="keywords"
+    content="Electronic Engineer, Embedded System, IoT, Kontrol Industri, PCB Design, Arduino, ESP32, Raspberry Pi, Portfolio">
+  <meta name="author" content="Fajar Hartato">
+
+  <!-- Open Graph / Social Media Meta Tags -->
+  <meta property="og:title" content="Fajar Hartato — Electronic Engineer Portfolio">
+  <meta property="og:description"
+    content="Portfolio profesional Fajar Hartato — Electronic Engineer dengan pengalaman 5+ tahun di bidang embedded system, kontrol industri, dan IoT.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://fajar-hartato.github.io/portfolio/">
+  <meta property="og:image" content="https://fajar-hartato.github.io/portfolio/assets/img/preview.png">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+    rel="stylesheet">
+
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+
+  <!-- ========== NAVIGATION ========== -->
+  <nav class="navbar" id="navbar">
+    <div class="nav-container">
+      <a href="#home" class="nav-logo">
+        <span class="logo-bracket">&lt;</span>FAJR PORTFOLIO<span class="logo-bracket"> /&gt;</span>
+      </a>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+        <span class="hamburger"></span>
+      </button>
+      <ul class="nav-menu" id="navMenu">
+        <li><a href="#home" class="nav-link active">Home</a></li>
+        <li><a href="#about" class="nav-link">About</a></li>
+        <li><a href="#skills" class="nav-link">Skills</a></li>
+        <li><a href="#experience" class="nav-link">Experience</a></li>
+        <li><a href="#education" class="nav-link">Education</a></li>
+        <li><a href="#certifications" class="nav-link">Certifications</a></li>
+        <li><a href="#projects" class="nav-link">Projects</a></li>
+        <li><a href="#contact" class="nav-link">Contact</a></li>
+        <li>
+          <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+            <i class="fa-solid fa-moon"></i>
+          </button>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- ========== HERO / HOME ========== -->
+  <section id="home" class="hero">
+    <div class="hero-bg-effects">
+      <div class="gradient-orb orb-1"></div>
+      <div class="gradient-orb orb-2"></div>
+      <div class="gradient-orb orb-3"></div>
+    </div>
+    <div class="container hero-content">
+      <p class="hero-greeting animate-on-scroll">Hello, I'm</p>
+      <h1 class="hero-name animate-on-scroll" id="heroName">Fajar Hartato</h1>
+      <h2 class="hero-role animate-on-scroll" id="heroRole">Electronic Engineer</h2>
+      <p class="hero-tagline animate-on-scroll" id="heroTagline">Merancang solusi teknis yang efisien & andal di bidang
+        embedded system, kontrol industri, dan IoT.</p>
+      <div class="hero-cta animate-on-scroll">
+        <a href="#projects" class="btn btn-primary">
+          <i class="fa-solid fa-rocket"></i> View Projects
+        </a>
+        <a href="assets/docs/CV - Fajar Hartato.pdf" download class="btn btn-outline" id="downloadCv">
+          <i class="fa-solid fa-download"></i> Download CV
+        </a>
+        <a href="#contact" class="btn btn-ghost">
+          <i class="fa-solid fa-envelope"></i> Contact
+        </a>
+      </div>
+    </div>
+    <div class="scroll-indicator">
+      <div class="mouse">
+        <div class="mouse-wheel"></div>
+      </div>
+      <p>Scroll Down</p>
+    </div>
+  </section>
+
+  <!-- ========== ABOUT ME ========== -->
+  <section id="about" class="section">
+    <div class="container">
+      <h2 class="section-title animate-on-scroll">
+        <span class="title-number">01.</span> About Me
+      </h2>
+      <div class="about-grid">
+        <div class="about-text animate-on-scroll" id="aboutText">
+          <!-- Filled by JS -->
+        </div>
+        <div class="about-stats animate-on-scroll">
+          <div class="stat-card">
+            <span class="stat-number" id="statYears">5+</span>
+            <span class="stat-label">Years Experience</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-number" id="statProjects">10+</span>
+            <span class="stat-label">Projects Delivered</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-number" id="statClients">3</span>
+            <span class="stat-label">Companies</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== SKILLS ========== -->
+  <section id="skills" class="section section-alt">
+    <div class="container">
+      <h2 class="section-title animate-on-scroll">
+        <span class="title-number">02.</span> Skills
+      </h2>
+      <div class="skills-grid" id="skillsGrid">
+        <!-- Filled by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== WORK EXPERIENCE ========== -->
+  <section id="experience" class="section">
+    <div class="container">
+      <h2 class="section-title animate-on-scroll">
+        <span class="title-number">03.</span> Work Experience
+      </h2>
+      <div class="timeline" id="timeline">
+        <!-- Filled by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== EDUCATION ========== -->
+  <section id="education" class="section section-alt">
+    <div class="container">
+      <h2 class="section-title animate-on-scroll">
+        <span class="title-number">04.</span> Education
+      </h2>
+      <div class="education-grid" id="educationGrid">
+        <!-- Filled by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== CERTIFICATIONS ========== -->
+  <section id="certifications" class="section">
+    <div class="container">
+      <h2 class="section-title animate-on-scroll">
+        <span class="title-number">05.</span> Certifications
+      </h2>
+      <div class="certs-grid" id="certsGrid">
+        <!-- Filled by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== PROJECTS ========== -->
+  <section id="projects" class="section section-alt">
+    <div class="container">
+      <h2 class="section-title animate-on-scroll">
+        <span class="title-number">06.</span> Projects
+      </h2>
+      <div class="projects-grid" id="projectsGrid">
+        <!-- Filled by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== CONTACT ========== -->
+  <section id="contact" class="section section-alt">
+    <div class="container">
+      <h2 class="section-title animate-on-scroll">
+        <span class="title-number">07.</span> Get In Touch
+      </h2>
+      <div class="contact-content animate-on-scroll">
+        <p class="contact-text">Saya terbuka untuk peluang baru. Jika Anda memiliki pertanyaan atau ingin berdiskusi,
+          jangan ragu untuk menghubungi saya!</p>
+        <p class="contact-availability" id="contactAvailability">Open to full-time and contract opportunities.</p>
+        <div class="contact-wrapper">
+          <div class="contact-links-container">
+            <div class="contact-links" id="contactLinks">
+              <!-- Filled by JS -->
+            </div>
+          </div>
+          <div class="contact-form-container">
+            <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" class="contact-form" id="contactForm">
+              <div class="form-row">
+                <div class="form-group">
+                  <input type="text" name="name" id="name" placeholder="Your Name" required class="form-control">
+                </div>
+                <div class="form-group">
+                  <input type="email" name="email" id="email" placeholder="Your Email" required class="form-control">
+                </div>
+              </div>
+              <div class="form-group">
+                <textarea name="message" id="message" rows="5" placeholder="Your Message" required
+                  class="form-control"></textarea>
+              </div>
+              <button type="submit" class="btn btn-primary btn-lg btn-block" id="submitBtn">
+                <i class="fa-solid fa-paper-plane"></i> Send Message
+              </button>
+              <p class="form-status" id="formStatus"></p>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== FOOTER ========== -->
+  <footer class="footer">
+    <div class="container">
+      <p class="footer-text">
+        Designed & Built by <span class="gradient-text">Fajar Hartato</span>
+      </p>
+      <p class="footer-update" id="footerUpdate">Last updated: February 2026</p>
+      <p class="footer-copy">&copy; 2026 All rights reserved.</p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="assets/js/main.js"></script>
+</body>
+
+</html>
